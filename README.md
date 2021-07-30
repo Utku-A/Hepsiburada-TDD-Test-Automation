@@ -1,5 +1,5 @@
 <div style="text-align:center">
-    <img src="ReadmeImages/hepsiburada.png" width="550px" height="3000px">
+    <img src="ReadmeImages/hepsiburada.png" width="550px" height="300px">
 </div>
 
 ## Hepsiburada TDD 
